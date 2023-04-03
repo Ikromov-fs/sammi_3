@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     //clock
 
-    const deadline = "2023-02-20"
+    const deadline = "2023-04-20"
 
     function timeOutClock(endTime) {
         let days, hours, minutes, seconds
